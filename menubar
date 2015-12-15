@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+<head>
+
+    <style type="text/css">
+      ul {
+    list-style-type: none;
+    }
+
+    li {
+    float: left;
+    margin : 0px;
+    }
+
+    li a{
+    color: white;
+    width : 100%;
+    background-color: #000;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-family: Tahoma;
+    }
+
+    a:hover{
+    background-color : #99cc00;
+    color : white;
+    font-weight: 600;
+
+    }
+    </style>
+
+    <title></title>
+</head>
+
+<body>
+    <ul>
+        <li><a href='#'>first</a></li>
+
+        <li><a href='#'>second</a></li>
+
+        <li><a href='#'>third</a></li>
+
+        <li><a href='#'>fourth</a></li>
+
+        <li><a href='#'>fifth</a></li>
+
+        <li><a href='#'>sixth</a></li>
+    </ul>
+</body>
+</html>
